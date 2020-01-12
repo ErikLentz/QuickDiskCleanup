@@ -1,5 +1,5 @@
 //Quick Disk Cleanup script
-//smeggysmeg https://github.com/smeggysmeg/QuickDiskCleanup
+//Erik Lentz https://github.com/ErikLentz/QuickDiskCleanup
 var FIX   = "Disk Cleanup";		
 var TITLE = "Disk Cleanup";
 var wsh   = WScript.CreateObject("WScript.Shell");
